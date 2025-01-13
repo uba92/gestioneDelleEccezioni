@@ -14,7 +14,7 @@ public class PopolaArray {
 
         System.out.println("Array Iniziale: ");
         for (int i=0; i<myArray.length; i++){
-            System.out.println("Elemento " + myArray[i]);
+            System.out.println("Elemento "  + myArray[i]);
         }
     }
 
